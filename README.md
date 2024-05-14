@@ -1,4 +1,4 @@
-**Title**: Survey Maker Web App
+**Title**: Survey Maker Web App - Full Stack Application
 
 **Description**:
 This repository contains a full-stack web app for creating and managing surveys. Users register as survey makers using Google authentication. They can create custom surveys with various question types and collect responses. The app offers analytics and a dashboard for streamlined survey management.
@@ -20,7 +20,5 @@ This repository contains a full-stack web app for creating and managing surveys.
 1. Clone the repository.
 2. Install dependencies with `npm install`.
 3. Configure Google OAuth credentials and MongoDB connection.
-4. Start the server with `npm start`.
+4. Start the server with `npm run dev`.
 5. Access the app in the browser at the specified port.
-
-This repository provides a robust solution for creating and managing surveys, empowering users to gather insights effectively.
