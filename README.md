@@ -1,2 +1,24 @@
-# Emaily-Application-NodeJs-React-Full Stack
- Sure, here's a revised version of the repository description tailored to your project:  **Title**: Survey Maker Web App with React Redux  **Description**: This repository hosts a full-stack web application designed for creating and managing surveys. Users can register as survey makers using their Google account and create surveys to collect data from participants. The application is built using Node.js, Express, React, Redux, MongoDB, and Mongoose, offering a robust and scalable solution for survey management.  **Key Features**: - **User Registration**: Users can register as survey makers using their Google account, enabling seamless authentication and authorization. - **Survey Creation**: Survey makers can create custom surveys with various question types such as multiple choice, text input, and rating scales. - **Data Collection**: The application collects responses from participants and provides survey makers with insights and analytics, including the number of respondents and response statistics. - **Dashboard**: Survey makers have access to a dashboard where they can view and manage their created surveys, monitor response rates, and analyze survey data in real-time. - **User-friendly Interface**: The application features an intuitive user interface that makes it easy for survey makers to create, deploy, and analyze surveys effectively.  **Technologies Used**: - **Frontend**: React.js with Redux for state management, providing a responsive and interactive user interface. - **Backend**: Node.js and Express.js for server-side logic and API endpoints. - **Database**: MongoDB with Mongoose for storing survey data and user information securely. - **Authentication**: Passport.js for Google OAuth authentication, ensuring secure and reliable user authentication. - **Deployment**: The application can be easily deployed to platforms like Heroku or AWS for production use.  **Usage**: 1. Clone the repository. 2. Install dependencies using `npm install`. 3. Configure Google OAuth credentials and MongoDB connection URI in the environment variables. 4. Start the server with `npm run dev`. 5. Access the application in the browser at the specified port.  This repository provides a comprehensive solution for survey creation and management, empowering users to gather valuable insights and data effectively.
+**Title**: Survey Maker Web App - Full Stack Application
+
+**Description**:
+This repository contains a full-stack web app for creating and managing surveys. Users register as survey makers using Google authentication. They can create custom surveys with various question types and collect responses. The app offers analytics and a dashboard for streamlined survey management.
+
+**Features**:
+- **User Registration**: Register as a survey maker using Google authentication.
+- **Survey Creation**: Create custom surveys with different question types.
+- **Data Collection**: Collect responses and access analytics.
+- **Dashboard**: Manage surveys efficiently through a user-friendly dashboard.
+
+**Tech Stack**:
+- **Frontend**: React.js with Redux.
+- **Backend**: Node.js and Express.js.
+- **Database**: MongoDB with Mongoose.
+- **Authentication**: Passport.js for Google OAuth.
+- **Deployment**: Easily deployable to platforms like Heroku or AWS.
+
+**Usage**:
+1. Clone the repository.
+2. Install dependencies with `npm install`.
+3. Configure Google OAuth credentials and MongoDB connection.
+4. Start the server with `npm run dev`.
+5. Access the app in the browser at the specified port.
